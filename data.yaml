@@ -1,0 +1,13 @@
+train: C:\Users\donsh\Trash Recog.v2i.yolov8\train
+val: C:\Users\donsh\Trash Recog.v2i.yolov8\valid
+test: C:\Users\donsh\Trash Recog.v2i.yolov8\test
+
+nc: 3
+names: ['Inorganic', 'Metal', 'Organic']
+
+roboflow:
+  workspace: compvis-49lgg
+  project: trash-recog
+  version: 2
+  license: Private
+  url: https://universe.roboflow.com/compvis-49lgg/trash-recog/dataset/2
