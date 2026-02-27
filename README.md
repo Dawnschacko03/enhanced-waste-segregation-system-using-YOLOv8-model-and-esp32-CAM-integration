@@ -18,7 +18,7 @@ When comparing YOLOv5 to PP-YOLO, it looks that YOLOv5 still provides the best i
 PP-YOLO is a novel PaddlePaddle-based object detector that is introduced in this study. Compared to other state-of-the-art detectors, such as EfficientDet and YOLOv4, PP-YOLO is faster (FPS) and more accurate (COCO mAP). In this article, we investigate various tricks, demonstrate their usefulness when combined using the YOLOv3 detector.
 
 Other Better Options
-YOLOv11 (https://docs.ultralytics
+YOLOv11 
 
 
 Model Comparison
